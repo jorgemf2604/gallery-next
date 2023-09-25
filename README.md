@@ -1,6 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Gallery App
+
+This is a simple gallery app taken from this Dave Gray's tutorial: https://www.youtube.com/watch?v=NFQwi5AnG_s
+
+It is created with Next.js 13 and uses the pexels API.
+
+Live site: https://gallery-next-nine.vercel.app/
+
+Github: https://github.com/jorgemf2604/gallery-next
+
+![](./video.gif)
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
