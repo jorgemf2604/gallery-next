@@ -6,9 +6,6 @@ const fetchImages = async (url) => {
       headers: {
         Authorization: process.env.PEXEL_API_KEY,
       },
-      next: {
-        revalidate: 3600,
-      },
     });
 
     if (!res.ok) {
